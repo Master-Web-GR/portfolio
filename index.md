@@ -1,8 +1,8 @@
 ---
 layout: landing
 
-user: Project PAP 💻
-profile: https://github.com/orgs/Project-PAP
+user: Net Achievements
+profile: https://github.com/orgs/Master-Web-GR
 avatar: https://avatars.githubusercontent.com/u/91753373
 
 bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες τις οποίες διαχειρίζεται το Project PAP!"
