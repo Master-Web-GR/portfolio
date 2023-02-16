@@ -3,7 +3,7 @@ layout: landing
 
 user: Net Achievements
 profile: https://github.com/orgs/Master-Web-GR
-avatar: https://avatars.githubusercontent.com/u/91753373
+avatar: https://avatars.githubusercontent.com/u/116208700
 
 bio: "Εδώ έχουμε μαζεμένες όλες τις υπηρεσίες τις οποίες διαχειρίζεται το Project PAP!"
 
