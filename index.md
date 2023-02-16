@@ -8,17 +8,15 @@ avatar: https://avatars.githubusercontent.com/u/116208700
 bio: "Οι υπηρεσίες μας έχουν ταξινομηθεί για να τις βρίσκετε εύκολα!"
 
 badges:
-  - bname: Musicy Project PAP 🎧
-    burl: https://musicy.projectpap.gq
+  - bname: Developer
+    burl: https://net-achievements.com
   - bname: Discord Server 💻📱
-    burl: https://services.projectpap.gq/discord
-  - bname: Discord MC Server 🎮
-    burl: https://services.projectpap.gq/discordmc
+    burl: https://discord.gg/Bj75seHm9E
 
 sitelist:
-  - sname: Project PAP Παιχνίδια
-    ssubline: Servers παιχνιδιών που στήθηκαν από εμάς!
-    surl: https://projectpap.gq
+  - sname: Sites
+    ssubline: Λίστα με τα Site που έχει στήσει η ομάδα του Net Achievements!
+    surl: https://net-achievements.com
     simage: https://services.projectpap.gq/home/media/gamesonline.jpg
     sdesc: "Θέλετε να βρείτε τους gaming servers που έχουμε στήσει ο ιδιοκτήτης του καναλιού μαζί με κάποια άτομα από την ομάδα των συντονιστών; Σε αυτή την λίστα θα τους βρείτε."
     sdescurl: https://projectpap.gq
