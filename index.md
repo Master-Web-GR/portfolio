@@ -11,7 +11,7 @@ badges:
   - bname: Developer
     burl: https://net-achievements.com
   - bname: Discord Server 💻📱
-    burl: https://discord.gg/Bj75seHm9E
+    burl: /discord
 
 sitelist:
   - sname: Sites
